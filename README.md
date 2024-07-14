@@ -1,5 +1,3 @@
-# HTML + SCSS 
-
 ## How to use
 ```
 git clone https://github.com/Ipsusoedra/ProjectWEB-SLB.git
